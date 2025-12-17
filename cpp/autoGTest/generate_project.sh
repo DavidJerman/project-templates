@@ -103,4 +103,4 @@ cmake --build build
 echo "--------------------------------------"
 echo "Project ${PROJECT_NAME} is ready."
 echo "Binary location: ./build/${PROJECT_NAME}"
-echo "Test location: ./build/OptimisationTests"
+echo "Test location: ./build/${PROJECT_NAME}Tests"
